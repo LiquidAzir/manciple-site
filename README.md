@@ -9,4 +9,4 @@ Static, dependency-free landing page for `manciple.org`.
 
 To preview locally, run `python3 -m http.server 8877 --directory marketing/manciple-site` from the repository root and open `http://127.0.0.1:8877/`.
 
-The public site is published from `LiquidAzir/manciple-site` via GitHub Pages at `https://manciple.org/`. This private repository keeps the working source alongside the product and pitch materials.
+The public site is published from `LiquidAzir/manciple-site` via GitHub Pages, with `manciple.org` configured as its custom domain. The same page is available over HTTPS at `https://liquidazir.github.io/manciple-watch/landing/` while the custom-domain certificate is being issued. This private repository keeps the working source alongside the product and pitch materials.
